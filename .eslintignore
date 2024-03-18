@@ -1,0 +1,14 @@
+/.git
+/.expo
+/.vscode
+/node_modules
+.editorconfig
+.eslintrc.js
+.gitignore
+.prettierignore
+.prettierrc.json
+package-lock.json
+package.json
+tsconfig.json
+expo-env.d.ts
+metro.config.js
